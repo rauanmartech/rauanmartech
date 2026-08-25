@@ -88,15 +88,14 @@ Me chamo Clíres Rauan da Rocha Nascimento, sou desenvolvedor Full Stack com for
 <p>
   <img
     align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=rauanmartech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    alt="Linguagens mais usadas"
+    height="195"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauanmartech&theme=tokyonight&layout=compact&custom_title=Linguagens%20mais%20usadas&langs_count=8&hide=html,css"
   />
   <img
     align="left"
-    alt="Linguagens mais usadas"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauanmartech&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    alt="GitHub Streak"
+    height="195"
+    src="https://streak-stats.demolab.com?user=rauanmartech&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D"
   />
 </p>
