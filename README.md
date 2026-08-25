@@ -83,19 +83,17 @@ Me chamo Clíres Rauan da Rocha Nascimento, sou desenvolvedor Full Stack com for
 
 ---
 
-### 📊 Estatísticas
+### 🛠️ Stack Principal
 
-<p>
-  <img
-    align="left"
-    alt="Linguagens mais usadas"
-    height="195"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauanmartech&theme=tokyonight&layout=compact&custom_title=Linguagens%20mais%20usadas&langs_count=8&hide=html,css"
-  />
-  <img
-    align="left"
-    alt="GitHub Streak"
-    height="195"
-    src="https://streak-stats.demolab.com?user=rauanmartech&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D"
-  />
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
