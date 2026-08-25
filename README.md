@@ -78,7 +78,7 @@ Me chamo Clíres Rauan da Rocha Nascimento, sou desenvolvedor Full Stack com for
 | **Sistema de Gestão Municipal — Ouro Preto** | Next.js · React · TypeScript · PostgreSQL · Supabase | Sistema administrativo entregue para prefeitura com APIs REST |
 | **Corpus Prime — SaaS** | Next.js · TypeScript · PostgreSQL · RLS · Supabase | Plataforma SaaS com Row Level Security na camada de banco de dados |
 | **CRM Automatizado — NEF Seguros** | N8N · Evolution API · Kommo · WhatsApp API · Agentes de IA | Automação comercial completa com Agentes de IA para qualificação de leads |
-| **Olha Museu** | Next.js · React · TypeScript · PostgreSQL · WordPress API | Portal editorial digital com Headless CMS e banco de dados relacional |
+| **Olhar Museu** | Next.js · React · TypeScript · PostgreSQL · WordPress API | Portal editorial digital com Headless CMS e banco de dados relacional |
 | **ML Industrial — UFCAT** | Python · Scikit-learn · Estatística · ISO 4406 | Modelo preditivo para detecção de contaminação em óleos lubrificantes |
 
 ---
